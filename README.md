@@ -1,6 +1,6 @@
-# webpack starter
+# tareas js
 
-Este es el proyecto inicial para apps usando webpack
+app en js
 
 # nota
 recordar reconstruir los modulos de Node
